@@ -8,10 +8,10 @@
 ## 📊 Dashboard Previews
 
 ### 1. Executive Summary & Regional Performance
-![Executive Dashboard](dashboard_executive.png)
+![Executive Dashboard](executive-overview-dashboard.png)
 
 ### 2. Operational & Product Profitability Deep-Dive
-![Operational Dashboard](dashboard_operations.png)
+![Operational Dashboard](operational-dashboard.png)
 
 ---
 
