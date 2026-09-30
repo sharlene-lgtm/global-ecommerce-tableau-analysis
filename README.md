@@ -11,7 +11,7 @@
 ![Executive Dashboard](executive-overview-dashboard.png)
 
 ### 2. Operational & Product Profitability Deep-Dive
-![Operational Dashboard](operational-dashboard.png)
+![Operational Dashboard](operational-deep-dive-dashboard.png)
 
 ---
 
